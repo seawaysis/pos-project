@@ -18,5 +18,8 @@ CMD [ "npm", "run", "dev" ]
 
 #register server postgresql Register->Servers 
 #npm install typescript ts-node @types/node --save-dev
+
 #npx tsc --init
 #npx prisma init --datasource-provider postgresql
+
+#go to .env config DATABASE_URL
